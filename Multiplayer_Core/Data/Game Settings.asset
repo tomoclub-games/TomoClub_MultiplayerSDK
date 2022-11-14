@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5deccfbc8d0cd994a94e6c112c4ada22, type: 3}
+  m_Name: Game Settings
+  m_EditorClassIdentifier: 
+  gameName: Multiplayer SDK
+  buildType: 2
+  gameType: 1
+  authenticationType: 1
+  targetFrameRate: -1
+  vSyncCount: 0
+  canRunInBackground: 1
+  inTestingMode: 1
+  clearPlayerPrefs: 0
+  hostingProvider: 0
+  simmerHostLink: 
+  itchHostLink: 
+  showSplashScreen: 0
+  splashScreenTTL: 3
+  automaticSyncSyncing: 1
+  timeAliveInBackground: 120000
+  totalPlayersRange: {x: 2, y: 16}
+  totalArenaRange: {x: 1, y: 4}
+  perArenaPlayersRange: {x: 2, y: 6}
+  playerTTL: 120000
+  emptyRoomTTL: 60000
+  cleanupCacheOnLeave: 0
