@@ -11,7 +11,6 @@ using UnityEngine.SceneManagement;
 
 using TomoClub.Util;
 
-//Test comment
 
 namespace TomoClub.Core
 {
