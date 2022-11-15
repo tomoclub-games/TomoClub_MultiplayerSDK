@@ -2,11 +2,11 @@
     "name": "TomoClub.MultiplayerSDK",
     "rootNamespace": "",
     "references": [
-        "GUID:831409e8f9d13b5479a3baef9822ad34",
-        "GUID:57c32fc907df0f54e8e6e8f0d2488336",
-        "GUID:6055be8ebefd69e48b49212b09b47b2f",
-        "GUID:343deaaf83e0cee4ca978e7df0b80d21",
-        "GUID:c4166e77b844fee46b22911459b1156f"
+        "DOTween.Modules",
+        "PhotonRealtime",
+        "PhotonUnityNetworking",
+        "Unity.TextMeshPro",
+        "UnityEditor.UI"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
